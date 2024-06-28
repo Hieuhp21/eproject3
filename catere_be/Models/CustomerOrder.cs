@@ -1,7 +1,10 @@
-﻿namespace catere_be.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace catere_be.Models
 {
     public class CustomerOrder
     {
+        [Key]
         public int OrderId { get; set; }
         public int CustomerId { get; set; }
         public int RoomId { get; set; }

@@ -1,7 +1,10 @@
-﻿namespace catere_be.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace catere_be.Models
 {
     public class SupplierDetail
     {
+        [Key]
         public int DetailId { get; set; }
         public int SupplierId { get; set; }
         public string Name { get; set; }

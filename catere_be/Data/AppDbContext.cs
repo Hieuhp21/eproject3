@@ -1,4 +1,5 @@
-﻿using catere_be.Models;
+﻿using catere_be.Dto;
+using catere_be.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace catere_be.Data
@@ -12,8 +13,9 @@ namespace catere_be.Data
 
         public DbSet<City> Cities { get; set; }
         public DbSet<Category> Categories { get; set; }
-        public DbSet<Customer> Customers { get; set; }
-        public DbSet<Supplier> Suppliers { get; set; }
+        public DbSet<Customer> Customer { get; set; }
+       // public DbSet<CustomerDTO> Customer { get; set; }
+        public DbSet<Supplier> Supplier { get; set; }
         public DbSet<Service> Services { get; set; }
         public DbSet<Room> Rooms { get; set; }
         public DbSet<Menu> Menus { get; set; }

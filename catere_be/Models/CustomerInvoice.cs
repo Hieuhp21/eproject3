@@ -1,7 +1,10 @@
-﻿namespace catere_be.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace catere_be.Models
 {
     public class CustomerInvoice
     {
+        [Key]
         public int InvoiceId { get; set; }
         public DateTime InvoiceDate { get; set; }
         public int OrderId { get; set; }

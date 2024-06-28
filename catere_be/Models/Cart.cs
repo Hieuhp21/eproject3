@@ -1,7 +1,10 @@
-﻿namespace catere_be.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace catere_be.Models
 {
     public class Cart
     {
+        [Key]
         public int CartId { get; set; }
         public int CustomerId { get; set; }
         public bool IsActive { get; set; }

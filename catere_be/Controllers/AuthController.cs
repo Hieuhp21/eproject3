@@ -26,8 +26,8 @@ public class AuthController : ControllerBase
     [HttpPost("login")]
     public async Task<IActionResult> Login(LoginModel loginModel)
     {
-        var customer = await _context.Customers.SingleOrDefaultAsync(c => c.LoginName == loginModel.Username);
-        var supplier = await _context.Suppliers.SingleOrDefaultAsync(s => s.LoginName == loginModel.Username);
+        var customer = await _context.Customer.SingleOrDefaultAsync(c => c.LoginName == loginModel.Username);
+        var supplier = await _context.Supplier.SingleOrDefaultAsync(s => s.LoginName == loginModel.Username);
 
         if (customer == null && supplier == null)
         {

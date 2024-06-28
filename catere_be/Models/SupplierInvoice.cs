@@ -1,7 +1,10 @@
-﻿namespace catere_be.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace catere_be.Models
 {
     public class SupplierInvoice
     {
+        [Key]
         public int SupplierInvoiceId { get; set; }
         public DateTime InvoiceDate { get; set; }
         public int SupplierId { get; set; }

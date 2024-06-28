@@ -2,6 +2,7 @@
 using catere_be.Data;
 using catere_be.Models;
 using Microsoft.EntityFrameworkCore;
+using catere_be.Dto;
 
 
 [Route("api/[controller]")]
@@ -18,13 +19,13 @@ public class CustomerController : ControllerBase
     [HttpGet]
     public async Task<ActionResult<IEnumerable<Customer>>> GetCustomers()
     {
-        return await _context.Customers.ToListAsync();
+        return await _context.Customer.ToListAsync();
     }
 
     [HttpGet("{id}")]
     public async Task<ActionResult<Customer>> GetCustomer(int id)
     {
-        var customer = await _context.Customers.FindAsync(id);
+        var customer = await _context.Customer.FindAsync(id);
 
         if (customer == null)
         {
@@ -37,11 +38,35 @@ public class CustomerController : ControllerBase
     [HttpPost]
     public async Task<ActionResult<Customer>> PostCustomer(Customer customer)
     {
-        _context.Customers.Add(customer);
+        // Hash mật khẩu của người dùng
+        customer.PasswordHash = catere_be.Hash.PasswordHasher.HashPassword(customer.PasswordHash);
+
+        // Thêm người dùng vào cơ sở dữ liệu
+        var customerEntity = new Customer
+        {
+            FirstName = customer.FirstName,
+            MiddleName = customer.MiddleName,
+            LastName = customer.LastName,
+            Gender = customer.Gender,
+            DateOfBirth = customer.DateOfBirth,
+            PhoneNumber = customer.PhoneNumber,
+            Email = customer.Email,
+            Address = customer.Address,
+            ImageUrl = customer.ImageUrl,
+            CustomerType = customer.CustomerType,
+            LoginName = customer.LoginName,
+            PasswordHash = customer.PasswordHash,
+            IsActive= customer.IsActive
+        };
+
+        _context.Customer.Add(customerEntity);
         await _context.SaveChangesAsync();
+
+        customer.CustomerId = customerEntity.CustomerId;
 
         return CreatedAtAction("GetCustomer", new { id = customer.CustomerId }, customer);
     }
+
 
     [HttpPut("{id}")]
     public async Task<IActionResult> PutCustomer(int id, Customer customer)
@@ -75,13 +100,13 @@ public class CustomerController : ControllerBase
     [HttpDelete("{id}")]
     public async Task<IActionResult> DeleteCustomer(int id)
     {
-        var customer = await _context.Customers.FindAsync(id);
+        var customer = await _context.Customer.FindAsync(id);
         if (customer == null)
         {
             return NotFound();
         }
 
-        _context.Customers.Remove(customer);
+        _context.Customer.Remove(customer);
         await _context.SaveChangesAsync();
 
         return NoContent();
@@ -89,6 +114,6 @@ public class CustomerController : ControllerBase
 
     private bool CustomerExists(int id)
     {
-        return _context.Customers.Any(e => e.CustomerId == id);
+        return _context.Customer.Any(e => e.CustomerId == id);
     }
 }

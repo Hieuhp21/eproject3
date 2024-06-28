@@ -1,7 +1,10 @@
-﻿namespace catere_be.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace catere_be.Models
 {
     public class Service
     {
+        [Key]
         public int ServiceId { get; set; }
         public string ServiceName { get; set; }
         public string Description { get; set; }

@@ -1,10 +1,9 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using catere_be.Models;
 
-namespace catere_be.Models
+namespace catere_be.Dto
 {
-    public class Customer
+    public class CustomerDTO
     {
-        [Key]
         public int CustomerId { get; set; }
         public string FirstName { get; set; }
         public string MiddleName { get; set; }
@@ -20,6 +19,10 @@ namespace catere_be.Models
         public string PasswordHash { get; set; }
         public bool IsActive { get; set; }
 
-     
+        public virtual ICollection<CustomerOrder> CustomerOrders { get; set; }
+        public virtual ICollection<CustomerInvoice> CustomerInvoices { get; set; }
+        public virtual ICollection<CustomerFeedback> CustomerFeedbacks { get; set; }
+        public virtual ICollection<Message> Messages { get; set; }
+        public virtual ICollection<Cart> Carts { get; set; }
     }
 }
