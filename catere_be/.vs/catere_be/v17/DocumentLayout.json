@@ -3,36 +3,87 @@
   "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|c:\\users\\dell\\desktop\\study\\project\\catere_be\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|c:\\users\\dell\\desktop\\study\\project\\catere_be\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DRIVERDELL_NHIE_MAY1/OnlineCatere/True/SqlTable/dbo.Customer.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|c:\\users\\dell\\desktop\\study\\project\\catere_be\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|c:\\users\\dell\\desktop\\study\\project\\catere_be\\dto\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|solutionrelative:dto\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|c:\\users\\dell\\desktop\\study\\project\\catere_be\\models\\customerinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|solutionrelative:models\\customerinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|c:\\users\\dell\\desktop\\study\\project\\catere_be\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|solutionrelative:models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|c:\\users\\dell\\desktop\\study\\project\\catere_be\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|solutionrelative:models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|c:\\users\\dell\\desktop\\study\\project\\catere_be\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|c:\\users\\dell\\desktop\\study\\project\\catere_be\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|c:\\users\\dell\\desktop\\study\\project\\catere_be\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|solutionrelative:models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|c:\\users\\dell\\desktop\\study\\project\\catere_be\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|solutionrelative:controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|c:\\users\\dell\\desktop\\study\\project\\catere_be\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|c:\\users\\dell\\desktop\\study\\project\\catere_be\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|solutionrelative:controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|c:\\users\\dell\\desktop\\study\\project\\catere_be\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|c:\\users\\dell\\desktop\\study\\project\\catere_be\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|solutionrelative:controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|c:\\users\\dell\\desktop\\study\\project\\catere_be\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|solutionrelative:controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|c:\\users\\dell\\desktop\\study\\project\\catere_be\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|c:\\users\\dell\\desktop\\study\\project\\catere_be\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|solutionrelative:controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|c:\\users\\dell\\desktop\\study\\project\\catere_be\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|solutionrelative:models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|c:\\users\\dell\\desktop\\study\\project\\catere_be\\models\\uploads\\icon_x_1nixogzt.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|solutionrelative:models\\uploads\\icon_x_1nixogzt.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|c:\\users\\dell\\desktop\\study\\project\\catere_be\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|solutionrelative:controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|c:\\users\\dell\\desktop\\study\\project\\catere_be\\dto\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|solutionrelative:dto\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|c:\\users\\dell\\desktop\\study\\project\\catere_be\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|solutionrelative:models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|c:\\users\\dell\\desktop\\study\\project\\catere_be\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|c:\\users\\dell\\desktop\\study\\project\\catere_be\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,28 +94,12 @@
       "RelativeMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|solutionrelative:models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|c:\\users\\dell\\desktop\\study\\project\\catere_be\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|c:\\users\\dell\\desktop\\study\\project\\catere_be\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|solutionrelative:models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|c:\\users\\dell\\desktop\\study\\project\\catere_be\\models\\supplierinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|solutionrelative:models\\supplierinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|c:\\users\\dell\\desktop\\study\\project\\catere_be\\models\\supplierdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|solutionrelative:models\\supplierdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|c:\\users\\dell\\desktop\\study\\project\\catere_be\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|solutionrelative:models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|c:\\users\\dell\\desktop\\study\\project\\catere_be\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|solutionrelative:models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|c:\\users\\dell\\desktop\\study\\project\\catere_be\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -83,16 +118,8 @@
       "RelativeMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|solutionrelative:models\\customerorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|c:\\users\\dell\\desktop\\study\\project\\catere_be\\models\\customerinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|solutionrelative:models\\customerinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|c:\\users\\dell\\desktop\\study\\project\\catere_be\\models\\customerfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|solutionrelative:models\\customerfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|c:\\users\\dell\\desktop\\study\\project\\catere_be\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|c:\\users\\dell\\desktop\\study\\project\\catere_be\\dto\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -103,28 +130,12 @@
       "RelativeMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|solutionrelative:hash\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|c:\\users\\dell\\desktop\\study\\project\\catere_be\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|solutionrelative:controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|c:\\users\\dell\\desktop\\study\\project\\catere_be\\dto\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|solutionrelative:dto\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|c:\\users\\dell\\desktop\\study\\project\\catere_be\\catere_be.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|solutionrelative:catere_be.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|c:\\users\\dell\\desktop\\study\\project\\catere_be\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|solutionrelative:controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|c:\\users\\dell\\desktop\\study\\project\\catere_be\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|solutionrelative:controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|c:\\users\\dell\\desktop\\study\\project\\catere_be\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CA55BAE-36CE-4F88-A34E-BBEAE9D903BA}|catere_be.csproj|solutionrelative:controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -134,7 +145,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -146,163 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAADkAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T01:40:49.013Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "Controllers\\AuthController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T03:14:23.988Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CustomerController.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Controllers\\CustomerController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Controllers\\CustomerController.cs",
-              "RelativeToolTip": "Controllers\\CustomerController.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAASwC8AAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T01:45:59.702Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "SupplierInvoice.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Models\\SupplierInvoice.cs",
-              "RelativeDocumentMoniker": "Models\\SupplierInvoice.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Models\\SupplierInvoice.cs",
-              "RelativeToolTip": "Models\\SupplierInvoice.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T09:13:57.987Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-27T01:36:40.747Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Supplier.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Models\\Supplier.cs",
-              "RelativeDocumentMoniker": "Models\\Supplier.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Models\\Supplier.cs",
-              "RelativeToolTip": "Models\\Supplier.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T09:09:28.807Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SupplierController.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Controllers\\SupplierController.cs",
-              "RelativeDocumentMoniker": "Controllers\\SupplierController.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Controllers\\SupplierController.cs",
-              "RelativeToolTip": "Controllers\\SupplierController.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAMwC0AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T01:47:24.027Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AuthResponse.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Dto\\AuthResponse.cs",
-              "RelativeDocumentMoniker": "Dto\\AuthResponse.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Dto\\AuthResponse.cs",
-              "RelativeToolTip": "Dto\\AuthResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T03:11:13.733Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Room.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Models\\Room.cs",
-              "RelativeDocumentMoniker": "Models\\Room.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Models\\Room.cs",
-              "RelativeToolTip": "Models\\Room.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T09:10:31.569Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T01:42:57.263Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Cart.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Models\\Cart.cs",
-              "RelativeDocumentMoniker": "Models\\Cart.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Models\\Cart.cs",
-              "RelativeToolTip": "Models\\Cart.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T09:17:25.186Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CartItem.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Models\\CartItem.cs",
-              "RelativeDocumentMoniker": "Models\\CartItem.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Models\\CartItem.cs",
-              "RelativeToolTip": "Models\\CartItem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T09:17:44.538Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Models\\Category.cs",
@@ -315,33 +170,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "City.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Models\\City.cs",
-              "RelativeDocumentMoniker": "Models\\City.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Models\\City.cs",
-              "RelativeToolTip": "Models\\City.cs",
+              "DocumentIndex": 6,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "Models\\Room.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Models\\Room.cs",
+              "RelativeToolTip": "Models\\Room.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T09:07:15.392Z",
+              "WhenOpened": "2024-06-26T09:10:31.569Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "SupplierDetail.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Models\\SupplierDetail.cs",
-              "RelativeDocumentMoniker": "Models\\SupplierDetail.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Models\\SupplierDetail.cs",
-              "RelativeToolTip": "Models\\SupplierDetail.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T09:11:59.478Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 5,
               "Title": "Service.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Models\\Service.cs",
               "RelativeDocumentMoniker": "Models\\Service.cs",
@@ -354,59 +196,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Message.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Models\\Message.cs",
-              "RelativeDocumentMoniker": "Models\\Message.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Models\\Message.cs",
-              "RelativeToolTip": "Models\\Message.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "DocumentIndex": 0,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Controllers\\CustomerController.cs*",
+              "RelativeToolTip": "Controllers\\CustomerController.cs*",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAmwHYAAABbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T09:15:43.646Z",
+              "WhenOpened": "2024-06-27T01:45:59.702Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Menu.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Models\\Menu.cs",
-              "RelativeDocumentMoniker": "Models\\Menu.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Models\\Menu.cs",
-              "RelativeToolTip": "Models\\Menu.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBAAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T09:11:01.176Z",
+              "WhenOpened": "2024-06-26T09:08:47.671Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "CustomerOrderMenu.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Models\\CustomerOrderMenu.cs",
-              "RelativeDocumentMoniker": "Models\\CustomerOrderMenu.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Models\\CustomerOrderMenu.cs",
-              "RelativeToolTip": "Models\\CustomerOrderMenu.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T09:14:37.036Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "CustomerOrder.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Models\\CustomerOrder.cs",
-              "RelativeDocumentMoniker": "Models\\CustomerOrder.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Models\\CustomerOrder.cs",
-              "RelativeToolTip": "Models\\CustomerOrder.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAUwAYAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T09:12:38.837Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 4,
               "Title": "CustomerInvoice.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Models\\CustomerInvoice.cs",
               "RelativeDocumentMoniker": "Models\\CustomerInvoice.cs",
@@ -419,7 +235,302 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T03:14:23.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.Customer [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DRIVERDELL_NHIE_MAY1/OnlineCatere/True/SqlTable/dbo.Customer.sql",
+              "ToolTip": "dbo.Customer [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-28T09:14:16.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T01:40:49.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SupplierController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Controllers\\SupplierController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SupplierController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Controllers\\SupplierController.cs",
+              "RelativeToolTip": "Controllers\\SupplierController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T01:47:24.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Controllers\\ServiceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ServiceController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Controllers\\ServiceController.cs",
+              "RelativeToolTip": "Controllers\\ServiceController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T01:51:16.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RoomController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Controllers\\RoomController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RoomController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Controllers\\RoomController.cs",
+              "RelativeToolTip": "Controllers\\RoomController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T01:52:36.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MenuController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "Controllers\\MenuController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T01:53:50.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwB0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T01:42:57.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-27T01:36:40.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Models\\City.cs",
+              "RelativeDocumentMoniker": "Models\\City.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Models\\City.cs",
+              "RelativeToolTip": "Models\\City.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:07:15.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SupplierInvoice.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Models\\SupplierInvoice.cs",
+              "RelativeDocumentMoniker": "Models\\SupplierInvoice.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Models\\SupplierInvoice.cs",
+              "RelativeToolTip": "Models\\SupplierInvoice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:13:57.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ImageController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Controllers\\ImageController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ImageController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Controllers\\ImageController.cs",
+              "RelativeToolTip": "Controllers\\ImageController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBkAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T06:25:04.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "Models\\Supplier.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Models\\Supplier.cs",
+              "RelativeToolTip": "Models\\Supplier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:09:28.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CityController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Controllers\\CityController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CityController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Controllers\\CityController.cs",
+              "RelativeToolTip": "Controllers\\CityController.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAcwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:21:42.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "icon_x_1nixogzt.png - PNG [225x225, 8 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Models\\uploads\\icon_x_1nixogzt.png",
+              "RelativeDocumentMoniker": "Models\\uploads\\icon_x_1nixogzt.png",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Models\\uploads\\icon_x_1nixogzt.png - PNG [225x225, 8 bit, PNG]",
+              "RelativeToolTip": "Models\\uploads\\icon_x_1nixogzt.png - PNG [225x225, 8 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-06-29T02:01:26.372Z",
+              "EditorCaption": " - PNG [225x225, 8 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthResponse.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Dto\\AuthResponse.cs",
+              "RelativeDocumentMoniker": "Dto\\AuthResponse.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Dto\\AuthResponse.cs",
+              "RelativeToolTip": "Dto\\AuthResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T03:11:13.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 21,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Models\\Cart.cs",
+              "RelativeToolTip": "Models\\Cart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:17:25.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Models\\CartItem.cs",
+              "RelativeToolTip": "Models\\CartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:17:44.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SupplierDetail.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Models\\SupplierDetail.cs",
+              "RelativeDocumentMoniker": "Models\\SupplierDetail.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Models\\SupplierDetail.cs",
+              "RelativeToolTip": "Models\\SupplierDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:11:59.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "Models\\Message.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Models\\Message.cs",
+              "RelativeToolTip": "Models\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:15:43.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Models\\Menu.cs",
+              "RelativeDocumentMoniker": "Models\\Menu.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Models\\Menu.cs",
+              "RelativeToolTip": "Models\\Menu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:11:01.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CustomerOrderMenu.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Models\\CustomerOrderMenu.cs",
+              "RelativeDocumentMoniker": "Models\\CustomerOrderMenu.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Models\\CustomerOrderMenu.cs",
+              "RelativeToolTip": "Models\\CustomerOrderMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:14:37.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CustomerOrder.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Models\\CustomerOrder.cs",
+              "RelativeDocumentMoniker": "Models\\CustomerOrder.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Models\\CustomerOrder.cs",
+              "RelativeToolTip": "Models\\CustomerOrder.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAUwAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:12:38.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
               "Title": "CustomerFeedback.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Models\\CustomerFeedback.cs",
               "RelativeDocumentMoniker": "Models\\CustomerFeedback.cs",
@@ -432,20 +543,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Models\\Customer.cs",
-              "RelativeDocumentMoniker": "Models\\Customer.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Models\\Customer.cs",
-              "RelativeToolTip": "Models\\Customer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T09:08:47.671Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 30,
               "Title": "CustomerDTO.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Dto\\CustomerDTO.cs",
               "RelativeDocumentMoniker": "Dto\\CustomerDTO.cs",
@@ -458,20 +556,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "CityController.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Controllers\\CityController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CityController.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Controllers\\CityController.cs",
-              "RelativeToolTip": "Controllers\\CityController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T09:21:42.422Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 31,
               "Title": "PasswordHasher.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Hash\\PasswordHasher.cs",
               "RelativeDocumentMoniker": "Hash\\PasswordHasher.cs",
@@ -484,7 +569,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 32,
               "Title": "LoginModel.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Dto\\LoginModel.cs",
               "RelativeDocumentMoniker": "Dto\\LoginModel.cs",
@@ -492,23 +577,12 @@
               "RelativeToolTip": "Dto\\LoginModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T03:09:19.087Z"
+              "WhenOpened": "2024-06-27T03:09:19.087Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "ServiceController.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Controllers\\ServiceController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ServiceController.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Controllers\\ServiceController.cs",
-              "RelativeToolTip": "Controllers\\ServiceController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T01:51:16.242Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 33,
               "Title": "catere_be.csproj",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\catere_be.csproj",
               "RelativeDocumentMoniker": "catere_be.csproj",
@@ -516,31 +590,8 @@
               "RelativeToolTip": "catere_be.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-27T02:32:20.894Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "RoomController.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Controllers\\RoomController.cs",
-              "RelativeDocumentMoniker": "Controllers\\RoomController.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Controllers\\RoomController.cs",
-              "RelativeToolTip": "Controllers\\RoomController.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAA9wAAAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T01:52:36.391Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "MenuController.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Controllers\\MenuController.cs",
-              "RelativeDocumentMoniker": "Controllers\\MenuController.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\study\\project\\catere_be\\Controllers\\MenuController.cs",
-              "RelativeToolTip": "Controllers\\MenuController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T01:53:50.085Z"
+              "WhenOpened": "2024-06-27T02:32:20.894Z",
+              "EditorCaption": ""
             }
           ]
         }

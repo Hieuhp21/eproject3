@@ -16,15 +16,15 @@ public class CityController : ControllerBase
     }
 
     [HttpGet]
-    public async Task<ActionResult<IEnumerable<City>>> GetCities()
+    public async Task<ActionResult<IEnumerable<City>>> GetCity()
     {
-        return await _context.Cities.ToListAsync();
+        return await _context.City.ToListAsync();
     }
 
     [HttpGet("{id}")]
     public async Task<ActionResult<City>> GetCity(int id)
     {
-        var city = await _context.Cities.FindAsync(id);
+        var city = await _context.City.FindAsync(id);
 
         if (city == null)
         {
@@ -37,7 +37,7 @@ public class CityController : ControllerBase
     [HttpPost]
     public async Task<ActionResult<City>> PostCity(City city)
     {
-        _context.Cities.Add(city);
+        _context.City.Add(city);
         await _context.SaveChangesAsync();
 
         return CreatedAtAction("GetCity", new { id = city.CityId }, city);
@@ -75,13 +75,13 @@ public class CityController : ControllerBase
     [HttpDelete("{id}")]
     public async Task<IActionResult> DeleteCity(int id)
     {
-        var city = await _context.Cities.FindAsync(id);
+        var city = await _context.City.FindAsync(id);
         if (city == null)
         {
             return NotFound();
         }
 
-        _context.Cities.Remove(city);
+        _context.City.Remove(city);
         await _context.SaveChangesAsync();
 
         return NoContent();
@@ -89,6 +89,6 @@ public class CityController : ControllerBase
 
     private bool CityExists(int id)
     {
-        return _context.Cities.Any(e => e.CityId == id);
+        return _context.City.Any(e => e.CityId == id);
     }
 }

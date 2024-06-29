@@ -1,3 +1,4 @@
+using catere_be.Controllers;
 using catere_be.Data;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
@@ -9,6 +10,8 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllers();
+builder.Services.AddScoped<ImageController>();
+
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
@@ -17,7 +20,7 @@ builder.Services.AddCors(options =>
     options.AddPolicy("AllowLocalhost",
                       builder =>
                       {
-                          builder.WithOrigins("http://127.0.0.1:5500", "http://localhost:5500")
+                          builder.WithOrigins("http://127.0.0.1:5501", "http://localhost:5500")
                                  .AllowAnyHeader()
                                  .AllowAnyMethod();
                       });

@@ -10,7 +10,7 @@ namespace catere_be.Models
         public int? ParentId { get; set; }
         public bool IsActive { get; set; }
 
-        public virtual ICollection<Supplier> Suppliers { get; set; }
+        //public virtual ICollection<Supplier> Suppliers { get; set; }
     }
 
 }

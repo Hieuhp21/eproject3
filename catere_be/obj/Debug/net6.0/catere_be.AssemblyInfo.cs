@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("catere_be")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd0a87b9ed40dfc1d35cf3305c99303fce3049d6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3b886c603171f6b002a63b5a7433eacec91d740")]
 [assembly: System.Reflection.AssemblyProductAttribute("catere_be")]
 [assembly: System.Reflection.AssemblyTitleAttribute("catere_be")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

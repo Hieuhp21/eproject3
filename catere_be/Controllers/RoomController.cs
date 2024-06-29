@@ -15,15 +15,15 @@ public class RoomController : ControllerBase
     }
 
     [HttpGet]
-    public async Task<ActionResult<IEnumerable<Room>>> GetRooms()
+    public async Task<ActionResult<IEnumerable<Room>>> GetRoom()
     {
-        return await _context.Rooms.ToListAsync();
+        return await _context.Room.ToListAsync();
     }
 
     [HttpGet("{id}")]
     public async Task<ActionResult<Room>> GetRoom(int id)
     {
-        var room = await _context.Rooms.FindAsync(id);
+        var room = await _context.Room.FindAsync(id);
 
         if (room == null)
         {
@@ -36,7 +36,7 @@ public class RoomController : ControllerBase
     [HttpPost]
     public async Task<ActionResult<Room>> PostRoom(Room room)
     {
-        _context.Rooms.Add(room);
+        _context.Room.Add(room);
         await _context.SaveChangesAsync();
 
         return CreatedAtAction("GetRoom", new { id = room.RoomId }, room);
@@ -74,13 +74,13 @@ public class RoomController : ControllerBase
     [HttpDelete("{id}")]
     public async Task<IActionResult> DeleteRoom(int id)
     {
-        var room = await _context.Rooms.FindAsync(id);
+        var room = await _context.Room.FindAsync(id);
         if (room == null)
         {
             return NotFound();
         }
 
-        _context.Rooms.Remove(room);
+        _context.Room.Remove(room);
         await _context.SaveChangesAsync();
 
         return NoContent();
@@ -88,6 +88,6 @@ public class RoomController : ControllerBase
 
     private bool RoomExists(int id)
     {
-        return _context.Rooms.Any(e => e.RoomId == id);
+        return _context.Room.Any(e => e.RoomId == id);
     }
 }

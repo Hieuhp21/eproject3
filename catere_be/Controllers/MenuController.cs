@@ -16,15 +16,15 @@ public class MenuController : ControllerBase
     }
 
     [HttpGet]
-    public async Task<ActionResult<IEnumerable<Menu>>> GetMenus()
+    public async Task<ActionResult<IEnumerable<Menu>>> GetMenu()
     {
-        return await _context.Menus.ToListAsync();
+        return await _context.Menu.ToListAsync();
     }
 
     [HttpGet("{id}")]
     public async Task<ActionResult<Menu>> GetMenu(int id)
     {
-        var menu = await _context.Menus.FindAsync(id);
+        var menu = await _context.Menu.FindAsync(id);
 
         if (menu == null)
         {
@@ -37,7 +37,7 @@ public class MenuController : ControllerBase
     [HttpPost]
     public async Task<ActionResult<Menu>> PostMenu(Menu menu)
     {
-        _context.Menus.Add(menu);
+        _context.Menu.Add(menu);
         await _context.SaveChangesAsync();
 
         return CreatedAtAction("GetMenu", new { id = menu }, menu);
@@ -75,13 +75,13 @@ public class MenuController : ControllerBase
     [HttpDelete("{id}")]
     public async Task<IActionResult> DeleteMenu(int id)
     {
-        var menu = await _context.Menus.FindAsync(id);
+        var menu = await _context.Menu.FindAsync(id);
         if (menu == null)
         {
             return NotFound();
         }
 
-        _context.Menus.Remove(menu);
+        _context.Menu.Remove(menu);
         await _context.SaveChangesAsync();
 
         return NoContent();
@@ -89,6 +89,6 @@ public class MenuController : ControllerBase
 
     private bool MenuExists(int id)
     {
-        return _context.Menus.Any(e => e.MenuItemId == id);
+        return _context.Menu.Any(e => e.MenuItemId == id);
     }
 }

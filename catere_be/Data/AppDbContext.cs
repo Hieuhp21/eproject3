@@ -11,23 +11,23 @@ namespace catere_be.Data
         {
         }
 
-        public DbSet<City> Cities { get; set; }
-        public DbSet<Category> Categories { get; set; }
+        public DbSet<City> City { get; set; }
+        public DbSet<Category> Category { get; set; }
         public DbSet<Customer> Customer { get; set; }
        // public DbSet<CustomerDTO> Customer { get; set; }
         public DbSet<Supplier> Supplier { get; set; }
-        public DbSet<Service> Services { get; set; }
-        public DbSet<Room> Rooms { get; set; }
-        public DbSet<Menu> Menus { get; set; }
-        public DbSet<SupplierDetail> SupplierDetails { get; set; }
-        public DbSet<CustomerOrder> CustomerOrders { get; set; }
-        public DbSet<CustomerInvoice> CustomerInvoices { get; set; }
-        public DbSet<SupplierInvoice> SupplierInvoices { get; set; }
-        public DbSet<CustomerOrderMenu> CustomerOrderMenus { get; set; }
-        public DbSet<CustomerFeedback> CustomerFeedbacks { get; set; }
-        public DbSet<Message> Messages { get; set; }
-        public DbSet<Cart> Carts { get; set; }
-        public DbSet<CartItem> CartItems { get; set; }
+        public DbSet<Service> Service { get; set; }
+        public DbSet<Room> Room { get; set; }
+        public DbSet<Menu> Menu { get; set; }
+        public DbSet<SupplierDetail> SupplierDetail { get; set; }
+        public DbSet<CustomerOrder> CustomerOrder { get; set; }
+        public DbSet<CustomerInvoice> CustomerInvoice { get; set; }
+        public DbSet<SupplierInvoice> SupplierInvoice { get; set; }
+        public DbSet<CustomerOrderMenu> CustomerOrderMenu { get; set; }
+        public DbSet<CustomerFeedback> CustomerFeedback { get; set; }
+        public DbSet<Message> Message { get; set; }
+        public DbSet<Cart> Cart { get; set; }
+        public DbSet<CartItem> CartItem { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

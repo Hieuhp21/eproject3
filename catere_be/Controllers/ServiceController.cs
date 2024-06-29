@@ -15,15 +15,15 @@ public class ServiceController : ControllerBase
     }
 
     [HttpGet]
-    public async Task<ActionResult<IEnumerable<Service>>> GetServices()
+    public async Task<ActionResult<IEnumerable<Service>>> GetService()
     {
-        return await _context.Services.ToListAsync();
+        return await _context.Service.ToListAsync();
     }
 
     [HttpGet("{id}")]
     public async Task<ActionResult<Service>> GetService(int id)
     {
-        var service = await _context.Services.FindAsync(id);
+        var service = await _context.Service.FindAsync(id);
 
         if (service == null)
         {
@@ -36,7 +36,7 @@ public class ServiceController : ControllerBase
     [HttpPost]
     public async Task<ActionResult<Service>> PostService(Service service)
     {
-        _context.Services.Add(service);
+        _context.Service.Add(service);
         await _context.SaveChangesAsync();
 
         return CreatedAtAction("GetService", new { id = service.ServiceId }, service);
@@ -74,13 +74,13 @@ public class ServiceController : ControllerBase
     [HttpDelete("{id}")]
     public async Task<IActionResult> DeleteService(int id)
     {
-        var service = await _context.Services.FindAsync(id);
+        var service = await _context.Service.FindAsync(id);
         if (service == null)
         {
             return NotFound();
         }
 
-        _context.Services.Remove(service);
+        _context.Service.Remove(service);
         await _context.SaveChangesAsync();
 
         return NoContent();
@@ -88,6 +88,6 @@ public class ServiceController : ControllerBase
 
     private bool ServiceExists(int id)
     {
-        return _context.Services.Any(e => e.ServiceId == id);
+        return _context.Service.Any(e => e.ServiceId == id);
     }
 }

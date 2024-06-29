@@ -15,7 +15,7 @@ public class SupplierController : ControllerBase
     }
 
     [HttpGet]
-    public async Task<ActionResult<IEnumerable<Supplier>>> GetSuppliers()
+    public async Task<ActionResult<IEnumerable<Supplier>>> GetSupplier()
     {
         return await _context.Supplier.ToListAsync();
     }
