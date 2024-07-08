@@ -88,23 +88,10 @@
             <a class="nav-link" href="#/customer">Customer</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#/customer-invoice">Customer Invoice</a>
+            <a class="nav-link" href="#/supplier">Supplier</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#/customer-order-menu"
-              >Customer Order Menu</a
-            >
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#/customer-order-supplier"
-              >Customer Order Supplier</a
-            >
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#/customer-feedback">Customer Feedback</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#/message">Message</a>
+            <a class="nav-link" href="#/service">Service</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#/room">Room</a>
@@ -113,7 +100,7 @@
             <a class="nav-link" href="#/service">Service</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#/supplier-detail">Supplier Detail</a>
+            <a class="nav-link" href="#/menu">Menu</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#/supplier-invoice">Supplier Invoice</a>
@@ -161,20 +148,20 @@
         $("#content").load("customer/index.html");
       });
 
-      router.on("/customer-invoice", function () {
-        $("#content").load("customer-invoice.html");
+      router.on("/supplier", function () {
+        $("#content").load("supplier/index.html");
       });
 
-      router.on("/customer-order-menu", function () {
-        $("#content").load("customer-order-menu.html");
+      router.on("/service", function () {
+        $("#content").load("service/index.html");
       });
 
-      router.on("/customer-order-supplier", function () {
-        $("#content").load("customer-order-supplier.html");
+      router.on("/room", function () {
+        $("#content").load("room/index.html");
       });
 
-      router.on("/customer-feedback", function () {
-        $("#content").load("customer-feedback.html");
+      router.on("/menu", function () {
+        $("#content").load("menu/index.html");
       });
 
       router.on("/message", function () {

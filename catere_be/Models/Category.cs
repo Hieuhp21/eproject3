@@ -9,7 +9,7 @@ namespace catere_be.Models
         public string Name { get; set; }
         public bool IsActive { get; set; }
 
-        public virtual ICollection<Menu> Menus { get; set; }
+        //public virtual ICollection<Menu> Menus { get; set; }
     }
    
 }

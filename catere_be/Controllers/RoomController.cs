@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using catere_be.Data;
 using catere_be.Models;
+using catere_be.Dto;
 
 [Route("api/[controller]")]
 [ApiController]
@@ -41,16 +42,28 @@ public class RoomController : ControllerBase
 
         return CreatedAtAction("GetRoom", new { id = room.RoomId }, room);
     }
-
     [HttpPut("{id}")]
-    public async Task<IActionResult> PutRoom(int id, Room room)
+    public async Task<IActionResult> UpdateRoom(int id, [FromBody] RoomDto roomDto)
     {
-        if (id != room.RoomId)
+        if (id != roomDto.RoomId)
         {
             return BadRequest();
         }
 
-        _context.Entry(room).State = EntityState.Modified;
+        var existingRoom = await _context.Room.FindAsync(id);
+        if (existingRoom == null)
+        {
+            return NotFound();
+        }
+
+        // Cập nhật các trường cần thiết
+        existingRoom.RoomName = roomDto.RoomName;
+        existingRoom.Capacity = roomDto.Capacity;
+        existingRoom.Price = roomDto.Price;
+        existingRoom.ServiceId = roomDto.ServiceId;
+        existingRoom.Description = roomDto.Description;
+
+        _context.Entry(existingRoom).State = EntityState.Modified;
 
         try
         {

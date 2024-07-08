@@ -13,8 +13,8 @@ namespace catere_be.Models
         public DateTime SentDate { get; set; }
         public bool IsActive { get; set; }
 
-        public virtual Customer Customer { get; set; }
-        public virtual Supplier Supplier { get; set; }
+        //public virtual Customer Customer { get; set; }
+        //public virtual Supplier Supplier { get; set; }
     }
 
 }

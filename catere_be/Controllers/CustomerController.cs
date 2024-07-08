@@ -68,6 +68,12 @@ namespace catere_be.Controllers
         [HttpPost]
         public async Task<ActionResult> PostCustomer([FromForm] Customer customer, IFormFile ?file)
         {
+            bool exists = await _context.Customer.AnyAsync(c =>  c.LoginName == customer.LoginName);
+
+            if (exists)
+            {
+                return Conflict(new { message = " Login Name already exists." });
+            }
             try
             {
                 if (file != null && file.Length > 0)

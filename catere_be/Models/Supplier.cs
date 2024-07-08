@@ -10,15 +10,15 @@ namespace catere_be.Models
         public string PhoneNumber { get; set; }
         public string Address { get; set; }
         public string Email { get; set; }
-        public string Level { get; set; }
+        public string ?Level { get; set; }
         public int? CityId { get; set; }
-        public string ImageUrl { get; set; }
+        public string? ImageUrl { get; set; }
         public string LoginName { get; set; }
-        public string PasswordHash { get; set; }
+        public string? PasswordHash { get; set; }
         public bool IsActive { get; set; }
 
         //public virtual City City { get; set; }
-        //public virtual ICollection<Service> Services { get; set; }
+        public virtual ICollection<Service> ?Services { get; set; }
         //public virtual ICollection<Menu> Menus { get; set; }
         //public virtual ICollection<SupplierDetail> SupplierDetails { get; set; }
         //public virtual ICollection<CustomerOrder> CustomerOrders { get; set; }

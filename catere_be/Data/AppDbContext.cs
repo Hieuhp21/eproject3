@@ -32,6 +32,23 @@ namespace catere_be.Data
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
+
+            modelBuilder.Entity<CustomerOrder>()
+                .HasMany(co => co.CustomerOrderMenu)
+                .WithOne(com => com.CustomerOrder)
+                .HasForeignKey(com => com.OrderId)
+                .OnDelete(DeleteBehavior.Cascade);
+
+            modelBuilder.Entity<CustomerOrderMenu>()
+                .HasOne<Menu>()
+                .WithMany()
+                .HasForeignKey(com => com.MenuItemId);
+
+            modelBuilder.Entity<CustomerOrderMenu>()
+                .HasOne<Room>()
+                .WithMany()
+                .HasForeignKey(com => com.RoomId);
         }
+
     }
 }
